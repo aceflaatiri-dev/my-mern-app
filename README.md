@@ -19,5 +19,5 @@ git init
 git add .
 git commit -m "Ready for checkpoint submission"
 git branch -M main
-git remote add origin https://github.com/YourUsername/my-mern-app.git
+git remote add origin https://github.com/aceflaatiri-dev/my-mern-app.git
 git push -u origin main
